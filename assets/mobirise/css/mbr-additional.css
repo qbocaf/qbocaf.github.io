@@ -2859,11 +2859,11 @@ body {
 }
 .cid-rMY9Cyl8KJ .nav-tabs .nav-link {
   box-sizing: border-box;
-  color: #328731;
+  color: #4f4943;
   font-style: normal;
   font-weight: 500;
   border-radius: 3px;
-  border: 1px solid #328731;
+  border: 1px solid #4f4943;
   padding: 1rem 3rem;
   margin: 0.4rem .8rem !important;
   transition: all .3s;
@@ -3126,7 +3126,7 @@ body {
   color: #232323;
 }
 .cid-rRUORcYnBK H1 {
-  color: #465052;
+  color: #2f3030;
 }
 .cid-rMBRI5UY4s {
   padding-top: 45px;
@@ -3632,6 +3632,7 @@ body {
 }
 .cid-rO6eCJd5Tq H2 {
   text-align: center;
+  color: #073b4c;
 }
 .cid-rMXN8PWaLo {
   padding-top: 15px;
@@ -3728,11 +3729,12 @@ body {
 }
 .cid-rO6e9j0e41 H2 {
   text-align: center;
+  color: #073b4c;
 }
 .cid-rO6cHkyLOj {
   padding-top: 0px;
   padding-bottom: 30px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/mbr-1920x1104.jpg");
 }
 .cid-rO6cHkyLOj .card-box {
   background-color: #ffffff;
